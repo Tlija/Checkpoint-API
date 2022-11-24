@@ -1,0 +1,5 @@
+-npx create-react-app myfristapp
+
+/--apres linstallation --/
+cd nom de fichie
+npm start
